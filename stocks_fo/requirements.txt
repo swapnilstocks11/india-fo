@@ -1,8 +1,6 @@
-os
 numpy
 pandas
 kiteconnect
-requests
 collections
 datetime
 streamlit
